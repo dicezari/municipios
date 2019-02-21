@@ -3,36 +3,36 @@
   <Document>
     <name>Mapa sem título</name>
     <description/>
-    <Style id="poly-000000-2201-0-normal">
+    <Style id="poly-757575-1401-0-normal">
       <LineStyle>
-        <color>ff000000</color>
-        <width>2.201</width>
+        <color>ff757575</color>
+        <width>1.401</width>
       </LineStyle>
       <PolyStyle>
-        <color>00000000</color>
+        <color>00757575</color>
         <fill>1</fill>
         <outline>1</outline>
       </PolyStyle>
     </Style>
-    <Style id="poly-000000-2201-0-highlight">
+    <Style id="poly-757575-1401-0-highlight">
       <LineStyle>
-        <color>ff000000</color>
-        <width>3.3015</width>
+        <color>ff757575</color>
+        <width>2.1015</width>
       </LineStyle>
       <PolyStyle>
-        <color>00000000</color>
+        <color>00757575</color>
         <fill>1</fill>
         <outline>1</outline>
       </PolyStyle>
     </Style>
-    <StyleMap id="poly-000000-2201-0">
+    <StyleMap id="poly-757575-1401-0">
       <Pair>
         <key>normal</key>
-        <styleUrl>#poly-000000-2201-0-normal</styleUrl>
+        <styleUrl>#poly-757575-1401-0-normal</styleUrl>
       </Pair>
       <Pair>
         <key>highlight</key>
-        <styleUrl>#poly-000000-2201-0-highlight</styleUrl>
+        <styleUrl>#poly-757575-1401-0-highlight</styleUrl>
       </Pair>
     </StyleMap>
     <Folder>
@@ -40,7 +40,7 @@
       <Placemark>
         <name>SP</name>
         <description>UF  SP</description>
-        <styleUrl>#poly-000000-2201-0</styleUrl>
+        <styleUrl>#poly-757575-1401-0</styleUrl>
         <MultiGeometry>
           <Polygon>
             <outerBoundaryIs>
